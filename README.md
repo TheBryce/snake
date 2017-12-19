@@ -1,2 +1,2 @@
 # snake
-Snake game for CS20
+Snake game for CS30
